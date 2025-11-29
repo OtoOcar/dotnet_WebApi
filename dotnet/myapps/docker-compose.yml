@@ -1,0 +1,26 @@
+services:
+  library-api:
+    image: library-api
+    container_name: library-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8980:8080"
+    networks:
+      - library-network
+
+  librarysql:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: librarysql
+    ports:
+      - "14330:1433"
+    environment:
+      - SA_PASSWORD=Abc.123456
+      - ACCEPT_EULA=Y
+    networks:
+      - library-network
+
+networks:
+  library-network:
+    driver: bridge

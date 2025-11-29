@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "10YVWL2H2YY=",
+  "dgSpecHash": "/eMt5MpckJA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\libreria.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\libreria.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oscar\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Oscar\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

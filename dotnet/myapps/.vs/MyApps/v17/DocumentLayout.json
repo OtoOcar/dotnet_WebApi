@@ -1,26 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\",
+  "WorkspaceRootPath": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myfirtapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\dtos\\userviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:dtos\\userviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myfirtapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myfirtapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myfirtapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myfirtapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|c:\\users\\oscar\\downloads\\projects\\dotnet\\myapps\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05F70675-224D-C306-7309-30D9F8CBF8D8}|libreria.WebApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T01:20:54.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ToDoItem.cs",
-              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\Models\\ToDoItem.cs",
-              "RelativeDocumentMoniker": "Models\\ToDoItem.cs",
-              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\Models\\ToDoItem.cs",
-              "RelativeToolTip": "Models\\ToDoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T01:20:42.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-29T01:06:13.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-29T01:06:03.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T00:58:00.822Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -108,6 +71,162 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\DTOs\\BookCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookCreateDto.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\DTOs\\BookCreateDto.cs",
+              "RelativeToolTip": "DTOs\\BookCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:06:08.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\DTOs\\UserViewDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserViewDto.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\DTOs\\UserViewDto.cs",
+              "RelativeToolTip": "DTOs\\UserViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:58:43.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:58:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:56:26.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:52:31.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:50:34.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:50:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:50:15.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:48:21.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T10:48:01.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-29T10:46:53.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-29T10:46:45.53Z",
+              "EditorCaption": ""
             }
           ]
         }

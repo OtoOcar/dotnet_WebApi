@@ -13,12 +13,34 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 var app = builder.Build();
 
-// Configuración del pipeline
-if (app.Environment.IsDevelopment())
+
+using (var scope = app.Services.CreateScope())
 {
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<AppDbContext>();
+        if (context.Database.GetPendingMigrations().Any())
+        {
+            context.Database.Migrate();
+        }
+
+    }
+    catch (Exception ex)
+    {
+        // Manejo de errores
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "Ha ocurrido un error al aplicar las migraciones");
+    }
+
+}
+
+
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 app.UseRouting();
 app.UseEndpoints(endpoints =>

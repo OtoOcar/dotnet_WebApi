@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\libreria.WebApi.csproj": {}
+    "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\libreria.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\libreria.WebApi.csproj": {
+    "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\libreria.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\libreria.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\libreria.WebApi.csproj",
         "projectName": "libreria.WebApi",
-        "projectPath": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\libreria.WebApi.csproj",
+        "projectPath": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\libreria.WebApi.csproj",
         "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myfirtapp\\obj\\",
+        "outputPath": "C:\\Users\\Oscar\\Downloads\\Projects\\dotnet\\myapps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
